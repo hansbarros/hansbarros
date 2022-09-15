@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hansbarros
 - 👀 I’m interested in motorsport, flying & coding!
-- 🌱 I’m currently learning AI & Haskell
+- 🌱 I’m currently learning Java & Python
 - 💞️ I’m looking to collaborate on using ai integrated projects! :)
 - 📫 reach me on here!
 
