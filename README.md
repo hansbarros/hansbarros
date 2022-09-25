@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hansbarros
 - 👀 I’m interested in motorsport, flying & coding!
-- 🌱 I’m currently learning Java & Python
-- 💞️ I’m looking to collaborate on using ai integrated projects! :)
+- 🌱 I’m currently learning Python to make speech recognition and AI.
+- 💞️ I’m looking to collaborate on projects! 
 - 📫 reach me on here!
 
 <!---
