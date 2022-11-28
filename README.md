@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hansbarros
+- 👋 Hi, I’m Hans!
 - 👀 I’m interested in motorsport, flying & coding!
 - 🌱 I’m currently learning Python to make speech recognition and AI.
 - 💞️ I’m looking to collaborate on projects! 
